@@ -1,0 +1,7 @@
+{
+  "name": "Buku Tamu Digital BK - SMPN 6 Nusa Penida",
+  "description": "A digital guest book for the Counseling department (BK) at SMP Negeri 6 Nusa Penida with automatic storage and searchable records.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
